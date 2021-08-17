@@ -1,0 +1,17 @@
+{
+	"diever":{
+		"cmd_driver_252":"g: && cd / && cd zhqc/zhqc_driver && dir && npm run build",
+		"cmd_driver_vr3":"g: && cd / && cd zhqc/zhqc_driver && dir && npm run build:vr3",
+		"cmd_driver_47":"g: && cd / && cd zhqc/zhqc_driver && dir && npm run build:47"
+	},
+	"pda":{
+		"cmd_pda_252":"g: && cd / && cd zhqc/operator-pda && dir && npm run build",
+		"cmd_pda_vr3":"g: && cd / && cd zhqc/operator-pda && dir && npm run build:vr3",
+		"cmd_pda_47":"g: && cd / && cd zhqc/operator-pda && dir && npm run build:47"
+	},
+	"dispatcher":{
+		"cmd_dis_252":"g: && cd / && cd zhqc/devapp/dispatcher-app && dir && npm run build",
+		"cmd_dis_vr3":"g: && cd / && cd zhqc/devapp/dispatcher-app && dir && npm run build:vr3",
+		"cmd_dis_47":"g: && cd / && cd zhqc/devapp/dispatcher-app && dir && npm run build:47"
+	}
+}
